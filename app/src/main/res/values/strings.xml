@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RAINVOID</string>
+    <string name="tab_pulse">// PULSE</string>
+    <string name="tab_static">// STATIC</string>
+    <string name="pulse_idle">AWAITING SIGNAL_</string>
+    <string name="pulse_button">[ TRANSMIT ]</string>
+    <string name="pulse_response">&gt;_ SIGNAL RECEIVED // rainisveryswag</string>
+    <string name="static_label">FREQ: 0</string>
+    <string name="static_prefix">FREQ: </string>
+    <string name="static_hint">DRAG TO TUNE</string>
+</resources>
