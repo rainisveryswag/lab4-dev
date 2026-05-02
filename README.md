@@ -1,5 +1,5 @@
 # RAINVOID
-**by [rainisveryswag](https://github.com/rainisveryswag) (yousra)**
+**by yousra aka [rainisveryswag](https://github.com/rainisveryswag)**
 
 > *Two fragments. One void. Signal received.*
 
